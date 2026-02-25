@@ -1,0 +1,14 @@
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\bin\Debug\net8.0\CubePathGame.exe
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\bin\Debug\net8.0\CubePathGame.deps.json
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\bin\Debug\net8.0\CubePathGame.runtimeconfig.json
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\bin\Debug\net8.0\CubePathGame.dll
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\bin\Debug\net8.0\CubePathGame.pdb
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\CubePathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\CubePathGame.AssemblyInfoInputs.cache
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\CubePathGame.AssemblyInfo.cs
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\CubePathGame.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\CubePathGame.dll
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\refint\CubePathGame.dll
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\CubePathGame.pdb
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\CubePathGame.genruntimeconfig.cache
+C:\Users\Elijah\Downloads\CubePathGame\CubePathGame\obj\Debug\net8.0\ref\CubePathGame.dll

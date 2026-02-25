@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- Target .NET 8 for cross-platform (Windows / macOS / Linux) -->
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <RootNamespace>CubePathGame</RootNamespace>
+    <AssemblyName>CubePathGame</AssemblyName>
+  </PropertyGroup>
+
+</Project>
