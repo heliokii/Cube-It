@@ -1,4 +1,4 @@
-// =============================================================================
+// ============================================================================
 // Program.cs — Entry point
 //
 // HOW TO RUN:
@@ -97,3 +97,4 @@ while (appRunning)
 // Restore cursor on graceful exit
 try { Console.CursorVisible = true; }
 catch { }
+
